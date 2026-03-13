@@ -147,7 +147,7 @@ const closeDetail = () => {
             GitHub
           </a>
           <span class="contact-item">📍 广州</span>
-          <span class="contact-item">📧 yly1773737856@gmail.com</span>
+          <span class="contact-item">📧 hackrabbit@qq.com</span>
         </div>
       </div>
     </section>
